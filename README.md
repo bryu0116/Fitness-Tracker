@@ -1,18 +1,25 @@
 # Fitness-Tracker
 
 ## Description
-This app allows the audience to view create and track daily workouts. The users should be able to log multiple exercises in a workout on a given day. They also would be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, user should be able to track the distance traveled.
+This app allows the audience to view create and track daily workouts.
 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screen Recording](#Screen)
 - [License](#license)
 - [Questions](#Questions)
 
 ## Installation
 Node.JS, NPM (Express, Mongoose, Morgan) must be installed. Used Mongo database.
+
+## Usage
+The users are able to log multiple exercises in a workout on a given day. They also would be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, user should be able to track the distance traveled.
+
+### App Screenshot
+<img src="views/workout01.png" alt="Fitness Tracker Main Page">
+<img src="views/workout02.png" alt="Fitness Tracker Dashboard">
+
 
 ## License
 MIT License
