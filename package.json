@@ -10,10 +10,18 @@
     "seed": "node seeders/seed.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
     "mongoose": "^5.3.16",
     "morgan": "^1.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryu0116/Fitness-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bryu0116/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/bryu0116/Fitness-Tracker#readme"
 }
